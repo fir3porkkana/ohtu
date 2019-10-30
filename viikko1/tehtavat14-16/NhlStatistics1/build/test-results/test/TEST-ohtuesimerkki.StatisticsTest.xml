@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtuesimerkki.StatisticsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-10-30T18:11:03" hostname="tiera-HP-EliteBook-820-G3" time="0.004">
+  <properties/>
+  <testcase name="teamReturnsAListOfPlayers" classname="ohtuesimerkki.StatisticsTest" time="0.003"/>
+  <testcase name="emptySearchReturnsNull" classname="ohtuesimerkki.StatisticsTest" time="0.001"/>
+  <testcase name="topscorersReturnsListOfPlayersOfRightLength" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <testcase name="searchReturnsAPlayer" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
