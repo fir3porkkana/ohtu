@@ -6,3 +6,5 @@ Repositorio ohjelmistotuotannolle, 2019 syksy, Tiera Salmi
 [viikon 2 tehtävät (linkki lisätty viikolla 3)](/viikko2)
 
 [viikon 3 tehtävät](/viikko3)
+
+[viikon 4 tehtävät](/viikko4)
