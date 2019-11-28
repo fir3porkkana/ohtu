@@ -23,6 +23,8 @@ public class Nollaa extends Komento {
     public void suorita() {
         sovelluslogiikka.nollaa();
         tuloskentta.setText(sovelluslogiikka.tulos() + "");
+        undo.disableProperty().set(false);
+
     }
 
     @Override

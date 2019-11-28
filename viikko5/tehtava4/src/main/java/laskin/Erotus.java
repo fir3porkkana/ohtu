@@ -22,6 +22,7 @@ public class Erotus extends Komento {
     public void suorita() {
         sovelluslogiikka.miinus(Integer.parseInt(syotekentta.getText()));
         nollaa.disableProperty().set(false);
+        undo.disableProperty().set(false);
         tuloskentta.setText(sovelluslogiikka.tulos() + "");
     }
 
